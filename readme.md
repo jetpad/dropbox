@@ -11,5 +11,5 @@ There is also a minified version available, `dropbox.min.js`.
     npm install -g bower
     bower install dropbox
 
-[Dropbox.js]: fdf
-[Bower]:fdf
+[Dropbox.js]: https://github.com/dropbox/dropbox-js
+[Bower]: http://bower.io/
