@@ -9,7 +9,7 @@ There is also a minified version available, `dropbox.min.js`.
 ## Get it
 
     npm install -g bower
-    bower install dropbox
+    bower install dropbox-build
 
 [Dropbox.js]: https://github.com/dropbox/dropbox-js
 [Bower]: http://bower.io/
